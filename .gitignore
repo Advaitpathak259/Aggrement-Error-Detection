@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Node
+node_modules/
+
+# Env
+.env
+
+# Model (VERY IMPORTANT)
+backend/final_lang8_model_20k/
+
+# OS
+.DS_Store
+Thumbs.db
