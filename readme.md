@@ -1,4 +1,4 @@
-# Agreement Error Detector (Full Stack AI App)
+# Agreement Error Detector 
 
 This project detects subject-verb agreement errors in English sentences using a fine-tuned transformer model.
 
