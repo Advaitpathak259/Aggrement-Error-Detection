@@ -25,6 +25,11 @@ This project detects subject-verb agreement errors in English sentences using a 
 
 ---
 
+
+added one more model for complete error detections
+
+that modesl usese sentence level classification to detect the errors usiing the roberta model
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone repo
@@ -40,3 +45,5 @@ python -m spacy download en_core_web_sm
  
 ## Run Backend
 uvicorn app:app --reload --port 8000
+
+
